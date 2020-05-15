@@ -92,7 +92,7 @@
    "toolPinAppEntries": true,
    "toolImageTextLinking": true,
 
-   "namedEntitiesSelector": false,
+   "namedEntitiesSelector": true,
    "namedEntitiesToHandle": [
       {
          "tagName": "persName",
@@ -132,8 +132,8 @@
    "witnessesGroups": [],
 
    "showInlineCriticalApparatus": true,
-   "showInlineSources": false,
-   "showInlineAnalogues": false,
+   "showInlineSources": true,
+   "showInlineAnalogues": true,
    "showReadingExponent": true,
 
    "toolHeatMap": false,
@@ -234,7 +234,7 @@
       "en",
       "it"
    ],
-   "showObjectSelector": false,
+   "showObjectSelector": true,
 
    "tdhopViewerOptions": {
 
