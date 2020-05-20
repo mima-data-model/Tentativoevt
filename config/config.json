@@ -81,7 +81,7 @@
          "value": "interpretative",
          "label": "Interpretative",
          "title": "Interpretative edition",
-         "visible": true
+         "visible": false
       }
    ],
 
@@ -112,9 +112,9 @@
    ],
    "otherEntitiesToHandle": [
       {
-         "tagName": "rolename",
-         "label": "Role Name",
-         "available": false,
+         "tagName": "date",
+         "label": "Date",
+         "available": true,
          "color": "#cfc"
       },
       {
@@ -136,7 +136,7 @@
    "showInlineAnalogues": true,
    "showReadingExponent": true,
 
-   "toolHeatMap": false,
+   "toolHeatMap": true,
 
    "versions": [],
 
@@ -148,7 +148,7 @@
    "quoteDef": "<quote>",
    "analogueDef": "<seg>,<ref[type=parallelPassage]>",
 
-   "possibleVariantFilters": "",
+   "possibleVariantFilters": "hand",
    "possibleLemmaFilters": "resp",
 
    "variantColorLight": "",
