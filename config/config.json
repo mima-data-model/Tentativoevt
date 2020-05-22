@@ -136,7 +136,7 @@
    "showInlineAnalogues": true,
    "showReadingExponent": true,
 
-   "toolHeatMap": true,
+   "toolHeatMap": false,
 
    "versions": [],
 
