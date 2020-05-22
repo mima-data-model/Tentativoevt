@@ -313,7 +313,7 @@
             </note>
            
             <rdgGrp ana="#rec1">
-                <rdg hand="#A1">
+                <lem hand="#A1">
                     Benché, l’animo no<choice>
                         <orig>-</orig>
                         <reg resp="#D.B."></reg>
@@ -360,7 +360,7 @@
                     <add hand="#A1" place="above">che</add> nobile, di sotto q<emph rend="italic">ue</emph>l<lb/> giogo contra tempo, e per la non pensata uscito, il quale
                     .XV. anni<lb/> continovi premuto l’havea, non pure sogliono, ma possono
                     occorrere.
-                </rdg>
+                </lem>
             </rdgGrp>
             <rdgGrp ana="#rec2">
                 <rdg cause="del" wit="#RC4c">
