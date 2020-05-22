@@ -361,9 +361,8 @@
                     occorrere.
                 </lem>
                  <rdgGrp>
-                     <rdg cause="del" ana="rec2">
-                         /
-                     </rdg>
+                     <rdg cause="del" ana="rec2"/>
+
                  </rdgGrp>
                          
         </app><lb/> Chiara cosa è che la <placeName ref="#Firenze">città
