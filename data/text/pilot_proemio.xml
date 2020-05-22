@@ -252,9 +252,7 @@
                         MEDICI</persName>, DUCA SECONDO DI <lb/> FIRENZE <lb/><lb/>PROEMIO &#9753;</head>
                 <p>
                 <choice><sic>L'INTENDIMENTO</sic><corr>L'intendimento</corr></choice> nostro è di dovere con quella diligenza, e verità,<lb/> che
-                    <app resp="#D.B.">
-                        <lem wit="#RC4"/>
-                        <rdg cause="add" wit="#RC4c">tertium</rdg>
+                    tertium</rdg>
                     </app> de subiecto logicae 
                     <app resp="#D.B.">
                         <lem wit="#RC4"/>
@@ -302,7 +300,9 @@
                     </choice><pb n="8v" xml:id="fol_8v"/><lb n="[8v]"/>le forze
                     dell’imperio nell’anno <date when="1530">millecinquecento trenta</date> agli
                         <date when="1530-08-20">.XX. <lb/> d’agosto</date>, fatto parlamento, lo
-                    racquistarono. <app type="recensio" resp="#D.B.">
+                    racquistarono. <app resp="#D.B.">
+                        <lem wit="#RC4"/>
+                        
             <note>
                 2 versioni
             </note>
@@ -358,7 +358,7 @@
                 </rdg>
             </rdgGrp>
             <rdgGrp ana="#rec2">
-                <rdg>
+                <rdg cause="del" wit="#RC4c">
                     
             </rdg>
            </rdgGrp>                   
