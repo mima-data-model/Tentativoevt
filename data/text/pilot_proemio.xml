@@ -252,18 +252,16 @@
                         MEDICI</persName>, DUCA SECONDO DI <lb/> FIRENZE <lb/><lb/>PROEMIO &#9753;</head>
                 <p>
                 <choice><sic>L'INTENDIMENTO</sic><corr>L'intendimento</corr></choice> nostro è di dovere con quella diligenza, e verità,<lb/> che
-                    <app resp="#D.B.">
-                        <lem wit="#RC4"/>
+                    <app>
+                       
                         
-                        <note>
-                            2 versioni
-                        </note>
+    
                         
-                        <rdgGrp ana="#rec1">
+                       
                             <rdg hand="#A1">
                     potremo,
                     </rdg>
-                            </rdgGrp>
+                           
                         </app>
                     e saperremo maggiore tutte quelle cose ordinatamente, e<lb/>
                     particolarmente raccontare, le quali dal popolo fiorentino degne<lb/> di memoria
