@@ -252,13 +252,13 @@
                         MEDICI</persName>, DUCA SECONDO DI <lb/> FIRENZE <lb/><lb/>PROEMIO &#9753;</head>
                 <p>
                 <choice><sic>L'INTENDIMENTO</sic><corr>L'intendimento</corr></choice> nostro è di dovere con quella diligenza, e verità,<lb/> che
-                    <app resp="#silvia">
-                        <lem wit="#F #G #N #P #R #V"/>
-                        <rdg cause="add" wit="#M #B #U">tertium</rdg>
+                    <app resp="#D.B.">
+                        <lem wit="#RC4"/>
+                        <rdg cause="add" wit="#RC4c">tertium</rdg>
                     </app> de subiecto logicae 
-                    <app resp="#silvia">
-                        <lem wit="#F #G #M #N #P #R #V"/>
-                        <rdg cause="add" wit="#B #U">Avicennae</rdg>
+                    <app resp="#D.B.">
+                        <lem wit="#RC4"/>
+                        <rdg cause="add" wit="#RC4c">Avicennae</rdg>
                     </app>
                     potremo, e saperremo maggiore tutte quelle cose ordinatamente, e<lb/>
                     particolarmente raccontare, le quali dal popolo fiorentino degne<lb/> di memoria
