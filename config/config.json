@@ -149,7 +149,7 @@
    "analogueDef": "<seg>,<ref[type=parallelPassage]>",
 
    "possibleVariantFilters": "hand",
-   "possibleLemmaFilters": "resp",
+   "possibleLemmaFilters": "resp, hand",
 
    "variantColorLight": "",
    "variantColorDark": "",
