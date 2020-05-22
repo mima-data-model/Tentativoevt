@@ -148,7 +148,7 @@
    "quoteDef": "<quote>",
    "analogueDef": "<seg>,<ref[type=parallelPassage]>",
 
-   "possibleVariantFilters": "hand",
+   "possibleVariantFilters": "type, cause",
    "possibleLemmaFilters": "resp, hand",
 
    "variantColorLight": "",
