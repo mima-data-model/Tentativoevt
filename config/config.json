@@ -125,7 +125,7 @@
       }
    ],
 
-   "preferredWitness": "",
+   "preferredWitness": "RC4",
    "skipWitnesses": "",
    "maxWitsLoadTogether": 5,
 
