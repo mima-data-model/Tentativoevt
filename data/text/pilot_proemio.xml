@@ -308,12 +308,11 @@
                     racquistarono. <app resp="#D.B.">
                         
                         
-            <note>
-                2 versioni
-            </note>
-           
-            <rdgGrp ana="#rec1">
+            
                 <lem hand="#A1">
+                    <note>
+                2 versioni
+                </note>
                     Benché, l’animo no<choice>
                         <orig>-</orig>
                         <reg resp="#D.B."></reg>
@@ -361,7 +360,7 @@
                     .XV. anni<lb/> continovi premuto l’havea, non pure sogliono, ma possono
                     occorrere.
                 </lem>
-            </rdgGrp>              
+                         
         </app><lb/> Chiara cosa è che la <placeName ref="#Firenze">città
                         di Firenze</placeName>, la quale, ò sua colpa ò sua <lb/> fortuna, fù alle
                     divisioni, e alle discordie cittadine sempre maraviglio<choice>
