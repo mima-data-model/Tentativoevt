@@ -360,8 +360,10 @@
                     .XV. anni<lb/> continovi premuto l’havea, non pure sogliono, ma possono
                     occorrere.
                 </lem>
+                    </app>
+                <app>
                  <rdgGrp>
-                     <lem cause="del" ana="#rec2">Trentatre trentini andarono a trento tutti e trentatre trotterellando</lem>
+                     <rdg cause="del" ana="#rec2">Trentatre trentini andarono a trento tutti e trentatre trotterellando</rdg>
 
                  </rdgGrp>
                          
