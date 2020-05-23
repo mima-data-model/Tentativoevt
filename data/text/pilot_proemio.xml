@@ -237,7 +237,7 @@
     </facsimile>
     <text n="RC4" ana="#RC4" hand="#A1">
         <front> 
-            <div type="paratext" subtype="intro">
+            
                 <p><hi> Legenda dei colori in Edizione Diplomatica</hi></p>
                 <p>Mano di Bonsi: testo base in nero</p>
                 <p>Mano di Varchi: <del hand="#A2">cassature</del> ed <add hand="#A2">aggiunte</add></p>
@@ -245,7 +245,7 @@
                 <p>Mano non identificata: <del hand="#A4">cassature</del> ed <add hand="#A4">aggiunte</add></p>
                 <p> Le abbreviazioni nella diplomatica sono sciolte e segnalate in corsivo e grassetto </p>
 
-            </div>
+            
         </front>       
         <body>
             <div n="Storia Fiorentina" type="prose" subtype="edition_text" xml:id="Storia_Fiorentina">
