@@ -235,7 +235,7 @@
             <graphic height="1800px" url="immagini\Vercelli-Book_104V_S_300dpi.jpg" width="1200px"/>
         </surface>
     </facsimile>
-    <text>
+    <text n="RC4" ana="#RC4" hand="#A1">
         <front> 
             
                 <p><hi> Legenda dei colori in Edizione Diplomatica</hi></p>
