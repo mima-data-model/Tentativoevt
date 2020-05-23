@@ -96,14 +96,13 @@
                                <msItem>
                                    <locus from="8v" to="13r">8v - 13r</locus>
                                    <title type="work" subtype="prose">Proemio</title>
-                                   <incipit>DELLA STORIA FIORENTINA</incipit>
-                                   <explicit>cominciamento alla Storia.</explicit>
+                                   <incipit></incipit>
+                                   <explicit></explicit>
                                </msItem>
                            </msContents>
                                         <physDesc>
                                           <handDesc>
-                                            <handNote scribe="Baldini" ana="#A3"> Mano di Baldini, interventi di correzioni e
-                                                aggiunte;</handNote>
+                                            <handNote scribe="Baldini" ana="#A3"> Mano di Baldini, interventi di correzioni e aggiunte;</handNote>
                                           </handDesc>
                                         </physDesc>
                        </msDesc>
