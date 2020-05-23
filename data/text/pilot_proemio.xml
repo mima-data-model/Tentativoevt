@@ -242,8 +242,9 @@
             </div>
         </front>       
         <body>
-            <pb n="8r" subtype="edition_text" xml:id="fol_8r"/><lb n="[8r]"/>
-            <div type="Proemio" xml:id="Proemio">
+            <div n="Proemio" type="Proemio" subtype="edition_text" xml:id="Proemio">
+                <pb n="8r" xml:id="fol_8r"/><lb n="[8r]"/>
+            
                 <head> &#9753; DELLA STORIA FIORENTINA <lb/>DI BENEDETTO VARCHI COMINCIATA DALL’<lb/>ANNO
                     MILLE CINQUECENTO VENTISETTE,<lb/> A 
                        L’ILL<emph rend="italic">USTRISSI</emph>MO ET ECC<emph rend="italic">ELLENTISSI</emph>MO 
@@ -911,7 +912,7 @@
                     felice <lb/> <span n="miaone_centrale">cominciamento alla Storia. &#9753; </span></p>
                 
 
-            </div>
+            </div>   
         </body>
     </text>
 
