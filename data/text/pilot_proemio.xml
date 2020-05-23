@@ -248,7 +248,7 @@
             
         </front>       
         <body>
-            <div n="Storia Fiorentina" type="prose" subtype="edition_text" xml:id="Storia_Fiorentina">
+            <div n="Storia Fiorentina" xml:id="Storia_Fiorentina">
                 <pb n="104v" xml:id="VB_fol_104v" facs="data/images/single/VB_fol_104v.jpg"/>
             
                 <head> &#9753; DELLA STORIA FIORENTINA <lb/>DI BENEDETTO VARCHI COMINCIATA DALL’<lb/>ANNO
