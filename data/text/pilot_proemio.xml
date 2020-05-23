@@ -229,6 +229,12 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    <facsimile xml:id="VB_fac_DOTR">
+        
+        <surface xml:id="VB_surf_104v" corresp="#VB_fol_104v">
+            <graphic height="1800px" url="immagini\Vercelli-Book_104V_S_300dpi.jpg" width="1200px"/>
+        </surface>
+    </facsimile>
     <text n="RC4" ana="#RC4" hand="#A1">
         <front> 
             <div type="paratext" subtype="intro">
@@ -243,7 +249,7 @@
         </front>       
         <body>
             <div n="Storia Fiorentina" type="prose" subtype="edition_text" xml:id="Storia_Fiorentina">
-                <pb n="8r" xml:id="fol_8r"/><lb n="[8r]"/>
+                <pb n="104v" xml:id="VB_fol_104v" facs="data/images/single/VB_fol_104v.jpg"/>
             
                 <head> &#9753; DELLA STORIA FIORENTINA <lb/>DI BENEDETTO VARCHI COMINCIATA DALL’<lb/>ANNO
                     MILLE CINQUECENTO VENTISETTE,<lb/> A 
