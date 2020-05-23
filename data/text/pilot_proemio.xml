@@ -309,7 +309,7 @@
                         
                         
             
-                <lem hand="#A1">
+                <lem ana="#rec1" hand="#A1">
                     <note>
                 2 versioni
                 </note>
@@ -361,7 +361,7 @@
                     occorrere.
                 </lem>
                  <rdgGrp>
-                     <rdg cause="del" ana="rec2">Trentatre trentini andarono a trento tutti e trentatre trotterellando</rdg>
+                     <rdg cause="del" ana="#rec2">Trentatre trentini andarono a trento tutti e trentatre trotterellando</rdg>
 
                  </rdgGrp>
                          
