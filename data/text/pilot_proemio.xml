@@ -241,9 +241,12 @@
     
                         
                        
-                            <lem hand="#A1">
+                            <lem wit="#RC4" hand="#A1">
                     potremo,
                     </lem>
+                        <rdg wit="RC4c">
+                            trentatre
+                        </rdg>
                            
                         </app>
                     e saperremo maggiore tutte quelle cose ordinatamente, e<lb/>
