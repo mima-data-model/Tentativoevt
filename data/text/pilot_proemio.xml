@@ -76,7 +76,7 @@
                     </listWit>
                     <listWit xml:id="rec2_wits" ana="#rec2" resp="#D.B.">
                     <head>Censured Witness</head>
-                    <witness ana="#RC4c">
+                    <witness xml:id="RC4c">
                        <msDesc>
                          <msIdentifier>
                              <settlement>Roma</settlement>
