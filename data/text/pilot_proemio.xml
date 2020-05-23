@@ -231,8 +231,8 @@
     </teiHeader>
     <text n="RC4" ana="#RC4" hand="#A1">
         <front> 
-            <div>
-                <p><hi> Legenda dei colori </hi></p>
+            <div type="paratext" subtype="intro">
+                <p><hi> Legenda dei colori in Edizione Diplomatica</hi></p>
                 <p>Mano di Bonsi: testo base in nero</p>
                 <p>Mano di Varchi: <del hand="#A2">cassature</del> ed <add hand="#A2">aggiunte</add></p>
                 <p>Mano di Baldini: <del hand="#A3">cassature</del> ed <add hand="#A3">aggiunte</add></p>
