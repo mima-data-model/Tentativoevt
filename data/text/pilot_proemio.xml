@@ -64,6 +64,15 @@
                         <repository>Accademia Nazionale dei Lincei e Corsiniana</repository>
                         <idno>RC4</idno>
                             </msIdentifier>
+                            <msContents>
+                            <msItem>
+                                <locus from="8v" to="13r">8v - 13r</locus>
+                                <title type="work" subtype="prose">Proemio</title>
+                                <incipit>DELLA STORIA FIORENTINA</incipit>
+                                <explicit>cominciamento alla Storia.</explicit>
+                            </msItem>
+                            
+                            </msContents>
                             <physDesc>
                                 <handDesc>
                                    <handNote scribe="Bonsi" ana="#A1">Mano di Bonsi, testo base su RC4;</handNote>
@@ -83,6 +92,14 @@
                                 <repository>Accademia Nazionale dei Lincei e Corsiniana</repository>
                                     <idno>RC4c</idno>
                          </msIdentifier>
+                           <msContents>
+                               <msItem>
+                                   <locus from="8v" to="13r">8v - 13r</locus>
+                                   <title type="work" subtype="prose">Proemio</title>
+                                   <incipit>DELLA STORIA FIORENTINA</incipit>
+                                   <explicit>cominciamento alla Storia.</explicit>
+                               </msItem>
+                           </msContents>
                                         <physDesc>
                                           <handDesc>
                                             <handNote scribe="Baldini" ana="#A3"> Mano di Baldini, interventi di correzioni e
