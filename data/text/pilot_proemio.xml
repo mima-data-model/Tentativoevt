@@ -309,7 +309,7 @@
                         
                         
             
-                <lem ana="#rec1" hand="#A1">
+                <lem wit="#RC4" hand="#A1">
                     <note>
                 2 versioni
                 </note>
@@ -363,7 +363,7 @@
                     </app>
                 <app>
                  <rdgGrp>
-                     <rdg cause="del" ana="#rec2">Trentatre trentini andarono a trento tutti e trentatre trotterellando</rdg>
+                     <rdg cause="del" wit="#RC4c">Trentatre trentini andarono a trento tutti e trentatre trotterellando</rdg>
 
                  </rdgGrp>
                          
