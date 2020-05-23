@@ -54,26 +54,9 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        
-                        <settlement>Roma</settlement>
-                        <repository>Accademia Nazionale dei Lincei e Corsiniana</repository>
-                        <idno>RC4</idno>
-                    </msIdentifier>
-                    <physDesc>
-                        <handDesc>
-                            <handNote scribe="Bonsi" xml:id="A1">Mano di Bonsi, testo base su RC4;</handNote>
-                            <handNote scribe="Varchi" xml:id="A2">Mano di Varchi, revisioni;</handNote>
-                            <handNote scribe="Baldini" xml:id="A3"> Mano di Baldini, interventi di correzioni e
-                                aggiunte;</handNote>
-                            <handNote scribe="N.I." xml:id="A4">Altra mano non identificata</handNote>
-                        </handDesc>
-                    </physDesc>
-                </msDesc>
                 <listWit>
                     <listWit xml:id="rec1_wits" ana="#rec1" resp="#D.B.">
-                    <head>Witnesses of Author Version</head>
+                    <head>Author Version</head>
                     <witness xml:id="RC4">
                         <msDesc>
                             <msIdentifier>
