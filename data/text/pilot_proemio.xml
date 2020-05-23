@@ -242,7 +242,7 @@
             </div>
         </front>       
         <body>
-            <pb n="8r" xml:id="fol_8r"/><lb n="[8r]"/>
+            <pb n="8r" subtype="edition_text" xml:id="fol_8r"/><lb n="[8r]"/>
             <div type="Proemio" xml:id="Proemio">
                 <head> &#9753; DELLA STORIA FIORENTINA <lb/>DI BENEDETTO VARCHI COMINCIATA DALL’<lb/>ANNO
                     MILLE CINQUECENTO VENTISETTE,<lb/> A 
