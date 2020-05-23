@@ -347,52 +347,7 @@
                     occorrere.
                 </lem>
                  <rdgGrp>
-                     <rdg cause="del" wit="#RC4c">Benché, l’animo no<choice>
-                         <orig>-</orig>
-                         <reg resp="#D.B."></reg>
-                     </choice><lb/>stro è (se la vita ne
-                         basterà) di scrivere per maggiore notizia della <lb/>mutazione dello <placeName
-                             ref="#Firenze">stato di Firenze</placeName> infino al <del hand="#A2"
-                                 >Primo</del>
-                         <add hand="#A2" place="above">27</add>
-                         <del hand="#A2">
-                             <add hand="#A2" place="below">primo</add>
-                         </del><del hand="#A2">giorno</del> 
-                         <del hand="#A2"> di Maggio</del>
-                         <del hand="#A2" n="miaone"><add hand="#A2" place="above">ventisettesimo
-                             d’Aprile</add></del><del hand="#A3"><add hand="#A2" place="margin" n="miaone"><date
-                                 when="1532-05-01">primo <lb/>giorno <lb/>di Maggio</date></add></del>
-                         <lb/><date when="1532-05-01"> dell’anno mille cinquecento trentadue</date>,
-                         nel qual tempo <persName ref="#Alessandro_de_Medici">Alessandro <lb/>de’
-                             Medici</persName> figliuolo non legittimo di <persName
-                                 ref="#Lorenzo_De_Medici">Lorenzo già Duca d’Urbino</persName>, <lb/>
-                         levata la signoria, e ’l Gonfaloniere, fù a vita con tutti i suoi <lb/>
-                         discendenti, e successori legittimi Doge creato della <placeName
-                             ref="#Firenze">Republica Fio<choice>
-                                 <orig>-</orig>
-                                 <reg resp="#D.B."></reg>
-                             </choice><lb/>rentina</placeName>: spazio breve sì,
-                         non comprendendo egli se non cinque <lb/>anni, e <del hand="#A2"
-                             >cinque</del>
-                         <del hand="#A2"><add hand="#A2" place="above">un </add></del>
-                         <add hand="#A2" place="above">cinque</add> giorn<del
-                             hand="#A2">i<add hand="#A2">o</add></del><add hand="#A2">i</add>, ma tale
-                         però e così fatto, che in ello, e <lb/>massimamente ne’ tre primi anni sotto
-                         il governo di tre gonfalo<choice>
-                             <orig>-</orig>
-                             <reg resp="#D.B."></reg>
-                         </choice><lb/>nieri di diversa natura, condizione, e
-                         volontà,<persName ref="#Capponi"> Niccolò Capponi</persName>,<lb/>
-                         <persName ref="#F_Carducci">Francesco Carducci</persName>, e <persName
-                             ref="#Girolami">Raffaello Girolami</persName>, nacquero insieme con<lb/>
-                         uno assedio, del quale non sò se mai fù il più memorabile, tutte <lb/> quasi
-                         quelle varietà et accidenti, che in un popolo non meno ambizioso,<lb/> e
-                         sottile che <add hand="#A2" place="above">diligente e</add> avaro, ne meno
-                         ricco, <del hand="#A1">che</del><add hand="#A1" place="above"><emph rend="italic">et</emph></add>
-                         industrioso, <del hand="#A2">e</del>
-                         <add hand="#A1" place="above">che</add> nobile, di sotto q<emph rend="italic">ue</emph>l<lb/> giogo contra tempo, e per la non pensata uscito, il quale
-                         .XV. anni<lb/> continovi premuto l’havea, non pure sogliono, ma possono
-                         occorrere.</rdg>
+                     <rdg cause="del" wit="#RC4c"> / </rdg>
 
                  </rdgGrp>
                          
