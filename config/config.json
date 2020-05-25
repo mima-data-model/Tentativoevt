@@ -136,7 +136,7 @@
      },
      {
          "groupName" : "Grp_2",
-         "witnesses" : ["RC4"]
+         "witnesses" : ["RC4c"]
      }
    ],
 
