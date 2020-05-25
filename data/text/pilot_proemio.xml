@@ -344,9 +344,9 @@
                                     <reg resp="#D.B."></reg>
                                 </choice><lb/>stro è (se la vita ne basterà) di scrivere per maggiore
                                 notizia della <lb/> mutazione dello <placeName ref="#Firenze"><choice>
-                                    <orig> s</orig>
-                                    <corr> S</corr>
-                                </choice>tato di Firenze </placeName> infino al <del hand="#A2"
+                                    <orig> stato</orig>
+                                    <corr> Stato</corr>
+                                </choice> di Firenze </placeName> infino al <del hand="#A2"
                                     >Primo</del>
                                 <add hand="#A2" place="above"> 27 </add>
                                 <del hand="#A2">
@@ -364,16 +364,16 @@
                                             <corr>,</corr>
                                         </choice> figliuolo non legittimo di <persName ref="#Lorenzo_De_Medici"
                                             > Lorenzo già Duca d’Urbino</persName>, <lb/> levata la <choice>
-                                                <orig>s</orig>
-                                                <corr> S</corr>
-                                            </choice>ignoria, e ’l Gonfaloniere, f<choice>
-                                                <orig>ù</orig>
-                                                <corr>u</corr>
+                                                <orig>signoria</orig>
+                                                <corr> Signoria</corr>
+                                            </choice>, e ’l Gonfaloniere, <choice>
+                                                <orig>fù</orig>
+                                                <corr>fu</corr>
                                             </choice> a vita con tutti i suoi <lb/> discendenti, e successori
                                 legittimi <choice>
-                                    <orig>D</orig>
-                                    <corr>d</corr>
-                                </choice>oge creato della <placeName ref="#Firenze" >Republica Fio<choice>
+                                    <orig>Doge</orig>
+                                    <corr>doge</corr>
+                                </choice> creato della <placeName ref="#Firenze" >Republica Fio<choice>
                                     <orig>-</orig>
                                     <reg resp="#D.B."></reg>
                                 </choice><lb/>rentina</placeName>: spazio breve sì, non comprendendo
@@ -410,20 +410,20 @@
                                     </choice> insieme con<lb/> uno assedio<choice>
                                         <orig>,</orig>
                                         <corr/>
-                                    </choice> del quale non s<choice>
-                                        <orig>ò</orig>
-                                        <corr>o</corr>
-                                    </choice> se mai f<choice>
-                                        <orig>ù</orig>
-                                        <corr>u</corr>
+                                    </choice> del quale non <choice>
+                                        <orig>sò</orig>
+                                        <corr>so</corr>
+                                    </choice> se mai <choice>
+                                        <orig>fù</orig>
+                                        <corr>fu</corr>
                                     </choice> il più memorabile, tutte <lb/> quasi quelle varietà et
                                 accidenti, che in un popolo non meno ambizioso<choice>
                                     <orig>,</orig>
                                     <corr/>
                                 </choice><lb/> e sottile che <add hand="#A2" place="above"> diligente
-                                    et </add> avaro, n<choice>
-                                        <orig>e</orig>
-                                        <corr>è</corr>
+                                    et </add> avaro, <choice>
+                                        <orig>ne</orig>
+                                        <corr>nè</corr>
                                     </choice> meno ricco<choice>
                                         <orig>,</orig>
                                         <corr> </corr>
@@ -453,9 +453,9 @@
                             </choice> sua colpa <choice>
                                 <orig>ò</orig>
                                 <corr>o</corr>
-                            </choice> sua <lb/> fortuna, f<choice>
-                                <orig>ù</orig>
-                                <corr>u</corr>
+                            </choice> sua <lb/> fortuna, <choice>
+                                <orig>fù</orig>
+                                <corr>fu</corr>
                             </choice> alle divisioni<choice>
                                 <orig>,</orig>
                                 <corr/>
@@ -465,37 +465,37 @@
                             </choice><lb/>samente sottoposta, mai non si trovò<choice>
                                 <orig>,</orig>
                                 <corr/>
-                            </choice> n<choice>
-                                <orig>e</orig>
-                                <corr>è</corr>
-                            </choice> con pi<choice>
-                                <orig>u</orig>
-                                <corr>ù</corr>
+                            </choice> <choice>
+                                <orig>ne</orig>
+                                <corr>nè</corr>
+                            </choice> con <choice>
+                                <orig>piu</orig>
+                                <corr>più</corr>
                             </choice> certo pericolo di<choice>
                                 <orig>-</orig>
                                 <reg resp="#D.B."/>
-                            </choice><lb/>visa, n<choice>
-                                <orig>e</orig>
-                                <corr>è</corr>
+                            </choice><lb/>visa, <choice>
+                                <orig>ne</orig>
+                                <corr>nè</corr>
                             </choice> con maggior danno discorde, che in quel tempo<choice>
-                                <orig>. O</orig>
-                                <corr>; o</corr>
-                            </choice>nde <lb/> avvenne<choice>
+                                <orig>. Onde</orig>
+                                <corr>; onde</corr>
+                            </choice> <lb/> avvenne<choice>
                                 <orig>,</orig>
                                 <corr/>
                             </choice> che ella<choice>
                                 <orig/>
                                 <corr>,</corr>
                             </choice> dopo l’havere la guerra contra l’esercito del <choice>
-                                <orig>P</orig>
-                                <corr>p</corr>
-                            </choice>a<choice>
+                                <orig>Pa</orig>
+                                <corr>pa</corr>
+                            </choice><choice>
                                 <orig>-</orig>
                                 <reg resp="#D.B."></reg>
                             </choice><lb/>pa e dell’<choice>
-                                <orig>I</orig>
-                                <corr>i</corr>
-                            </choice>mperadore con incredibile <choice>
+                                <orig>Imperadore</orig>
+                                <corr>imperadore</corr>
+                            </choice> con incredibile <choice>
                                 <orig>ò</orig>
                                 <corr>o</corr>
                             </choice> ardire<choice>
@@ -507,7 +507,7 @@
                             </choice>secondo<lb/><choice>
                                 <orig> che</orig>
                                 <corr>ché</corr>
-                            </choice>che <choice>
+                            </choice> <choice>
                                 <orig>à</orig>
                                 <corr>a</corr>
                             </choice> noi pare<choice>
@@ -1051,3 +1051,4 @@
     </text>
 
 </TEI>
+
