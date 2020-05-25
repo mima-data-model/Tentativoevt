@@ -248,7 +248,7 @@
            
         </front>       
         <body>
-            <div n="Proemio" type="Proemio-" xml:id="Proemio">
+            <div n="Proemio" type="Proemio" xml:id="Proemio">
                 <pb n="8r" xml:id="fol_8r" facs="data/images/single/fol_8r.jpg"/><lb n="[8r]"/>
             
                 <head> &#9753; DELLA STORIA FIORENTINA <lb/>DI BENEDETTO VARCHI COMINCIATA DALL’<lb/>ANNO
@@ -326,7 +326,7 @@
                                 
                                 <rdg wit="#RC4" hand="#A1">
                                 <note> 2 versioni </note>
-                                     Benché, l’animo no<choice>
+                                     <del hand="#A3">Benché, l’animo no<choice>
                                     <orig>-</orig>
                                     <reg resp="#D.B."></reg>
                                 </choice><lb/>stro è (se la vita ne basterà) di scrivere per maggiore
@@ -426,7 +426,7 @@
                                         <orig>.XV.</orig>
                                         <corr>15</corr>
                                     </choice> anni<lb/> continovi premuto l’havea, non pure sogliono, ma
-                                possono occorrere. </rdg>
+                                possono occorrere. </del></rdg>
                             </rdgGrp>
                             <rdgGrp ana="#rec2">
                                 <rdg cause="del" wit="#RC4c"> </rdg>
