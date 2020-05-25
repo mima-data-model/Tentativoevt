@@ -337,7 +337,7 @@
                     <app type="recensio">
                             <rdgGrp ana="#rec1">
                                 
-                                <rdg wit="#RC4" hand="#A1">
+                                <rdg wit="#RC4">
                                 <note> 2 versioni </note>
                                      <del hand="#A3">Benché, l’animo no<choice>
                                     <orig>-</orig>
