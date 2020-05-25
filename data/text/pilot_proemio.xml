@@ -266,7 +266,7 @@
                     </rdg>
                         </rdgGrp>
                         <rdgGrp ana="#rec2">
-                        <rdg cause="del" wit="RC4c">
+                        <rdg wit="RC4c" cause="del">
                             trentatre
                         </rdg>
                         </rdgGrp> 
@@ -290,12 +290,7 @@
                         maggio</date>, allhora che<lb/>
                     <persName ref="#Famiglia_Medici">i Medici</persName>, di <placeName
                         ref="#Firenze">Firenze</placeName> partendosi, se ne fuggirono a <placeName
-                            ref="#Lucca">Lucca</placeName>  <app>
-                                
-                                
-                                
-                                
-                                
+                            ref="#Lucca">Lucca</placeName>  <app> 
                                 <lem wit="#RC4" hand="#A1">
                                   l’an<choice>
                         <orig>-</orig>
