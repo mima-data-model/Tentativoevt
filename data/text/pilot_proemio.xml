@@ -320,11 +320,13 @@
                         <lb/> d’agosto</date><choice>
                             <orig>,</orig>
                             <corr/>
-                        </choice> fatto parlamento, lo racquistarono. <app type="recensio">
+                        </choice> fatto parlamento, lo racquistarono.
+                    <app type="recensio">
                             <rdgGrp ana="#rec1">
                                 
                                 <rdg wit="#RC4" hand="#A1">
-                                <note> 2 versioni </note> Benché, l’animo no<choice>
+                                <note> 2 versioni </note>
+                                     Benché, l’animo no<choice>
                                     <orig>-</orig>
                                     <reg resp="#D.B."></reg>
                                 </choice><lb/>stro è (se la vita ne basterà) di scrivere per maggiore
