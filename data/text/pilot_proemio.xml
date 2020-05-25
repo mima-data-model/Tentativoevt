@@ -290,13 +290,26 @@
                         maggio</date>, allhora che<lb/>
                     <persName ref="#Famiglia_Medici">i Medici</persName>, di <placeName
                         ref="#Firenze">Firenze</placeName> partendosi, se ne fuggirono a <placeName
-                        ref="#Lucca">Lucca</placeName> l’an<choice>
+                            ref="#Lucca">Lucca</placeName>  <app>
+                                
+                                
+                                
+                                
+                                
+                                <lem wit="#RC4" hand="#A1">
+                                  l’an<choice>
                         <orig>-</orig>
                         <reg resp="#D.B."></reg>
                         </choice><lb/>no della concezzione di N<emph rend="italic">ostro</emph> S<emph rend="italic">ignore</emph> Giesù Cristo (che da tal gior<choice>
                         <orig>-</orig>
                         <reg resp="#D.B."></reg>
-                    </choice><lb/>no principia<del hand="#A1"
+                    </choice> 
+                                </lem>
+                                <rdg wit="RC4c">
+                                    Tentativo 1550
+                                </rdg>
+                                
+                            </app><lb/>no principia<del hand="#A1"
                         >va</del>no l’anno 
                     
                     <span n="miaone"><choice><orig>
