@@ -90,7 +90,7 @@
                          <msIdentifier>
                              <settlement>Roma</settlement>
                                 <repository>Accademia Nazionale dei Lincei e Corsiniana</repository>
-                                    <idno>RC4c</idno>
+                                    <idno>RC4 censured</idno>
                          </msIdentifier>
                            <msContents>
                                <msItem>
@@ -235,7 +235,7 @@
             <graphic height="1800px" url="immagini\Vercelli-Book_104V_S_300dpi.jpg" width="1200px"/>
         </surface>
     </facsimile>
-    <text>
+    <text n="Storia Fiorentina" xml:id="Storia_Fiorentina">
         <front> 
             
                 <p><hi> Legenda dei colori in Edizione Diplomatica</hi></p>
@@ -248,7 +248,7 @@
            
         </front>       
         <body>
-            <div n="Storia Fiorentina" type="Proemio-" xml:id="Storia_Fiorentina">
+            <div n="Proemio" type="Proemio-" xml:id="Proemio">
                 <pb n="8r" xml:id="fol_8r" facs="data/images/single/fol_8r.jpg"/><lb n="[8r]"/>
             
                 <head> &#9753; DELLA STORIA FIORENTINA <lb/>DI BENEDETTO VARCHI COMINCIATA DALL’<lb/>ANNO
