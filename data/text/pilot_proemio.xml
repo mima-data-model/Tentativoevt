@@ -266,7 +266,7 @@
                     </rdg>
                         </rdgGrp>
                         <rdgGrp ana="#rec2">
-                        <rdg wit="RC4c" cause="del">
+                        <rdg wit="#RC4c" cause="del">
                             trentatre
                         </rdg>
                         </rdgGrp> 
