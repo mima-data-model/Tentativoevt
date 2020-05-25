@@ -261,9 +261,9 @@
                     <app type="recensio">
                         <rdgGrp ana="#rec1">
           
-                            <lem wit="#RC4" hand="#A1">
+                            <rdg wit="#RC4" hand="#A1">
                     potremo,
-                    </lem>
+                    </rdg>
                         </rdgGrp>
                         <rdgGrp ana="#rec2">
                         <rdg cause="del" wit="RC4c">
