@@ -138,7 +138,7 @@
 
    "toolHeatMap": false,
 
-   "versions": [],
+   "versions": ["rec2", "rec1"],
 
    "listDef": "<listWit>, <listChange>",
    "versionDef": "<witness>, <change>",
